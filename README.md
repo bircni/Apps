@@ -1,4 +1,4 @@
-# MyApps
+# Useful Apps
 
 Here are some Apps to use on your Desktop.  
 With this you don't have to search for the Downloads - just click the Link and thats it.
