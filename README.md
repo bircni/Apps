@@ -1,4 +1,3 @@
-# Useful Apps
 
 Here are some Apps to use on your Desktop.  
 With this you don't have to search for the Downloads - just click the Link and thats it.
@@ -19,6 +18,12 @@ To add a link you can create an issue with the name and the link or just add a [
 ## Useful small Programs:
 - [1Password](https://1password.com/downloads)
 - [KeePass](https://keepass.info/download.html)
+- [Notion](https://www.notion.so/desktop)
+- [7zip](https://7-zip.com/download.html)
+- [Keka (Unzipper for Mac)](https://www.keka.io/)
+- [Speedtest](https://www.speedtest.net/apps)
+- [Discord](https://discord.com/download)
+
 
 ## Media Programs:
 - [Spotify](https://www.spotify.com/download/)
@@ -38,3 +43,5 @@ To add a link you can create an issue with the name and the link or just add a [
 - [Microsoft Teams]()
 
 ## Useful Repositories
+- [OpenSesame](https://github.com/OpenSesameManager/OpenSesame/releases)
+- 
