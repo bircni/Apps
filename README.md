@@ -30,17 +30,17 @@ To add a link you can create an issue with the name and the link or just add a [
 - [Tidal](https://tidal.com/download)
 
 ## Browsers:
-- [Brave]()
-- [Edge]()
-- [Opera]()
-- [OperaGX]()
-- [Chrome]()
+- [Brave](https://brave.com/download/)
+- [Edge](https://www.microsoft.com/edge)
+- [Opera](https://www.opera.com/download)
+- [OperaGX](https://www.opera.com/gx)
+- [Chrome](https://www.google.com/chrome/)
 
 ## Chat Programs:
-- [Signal]()
-- [Threema]()
-- [Discord]()
-- [Microsoft Teams]()
+- [Signal](https://signal.org/download/)
+- [Threema](https://threema.ch/download)
+- [Discord](https://discord.com/download)
+- [Microsoft Teams](https://www.microsoft.com/microsoft-teams/download-app)
 
 ## Useful Repositories
 - [OpenSesame](https://github.com/OpenSesameManager/OpenSesame/releases)
